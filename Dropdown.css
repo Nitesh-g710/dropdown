@@ -1,0 +1,18 @@
+#img1{
+    /* position: relative; */
+    position: sticky;
+    top: 0px;
+}
+
+#img2{
+    position: fixed;
+    top: 0;
+    right: 400px;
+}
+
+
+/* #img2{
+    position: absolute;
+    top: 0px;
+    left: 100px;
+} */
